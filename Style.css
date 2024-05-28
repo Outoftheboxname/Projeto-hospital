@@ -1,0 +1,107 @@
+*{
+    margin:0;
+    flex:1;
+    
+}
+body{
+    width:100%;
+    height:100%;
+    overflow:hidden;
+}
+#Agastya {
+   background-color:crimson;
+   height:90%;
+}
+#Agastya2{
+    background-color: rgb(210,169,169);
+    height:90%;
+ }
+.baratz {
+
+    background-color: rgb(238, 231, 226); 
+    border-style: solid;
+    border-color:black;
+    border-top-width:0%;  
+    border-left-width:10%;
+}
+.baratz2{
+
+    background-color:rgb(219, 117, 48);
+    border-style: solid;
+    border-color:black;
+    border-top-width:0%;  
+    border-left-width:10%;
+}
+.espaçador {
+    margin-top: 2%;
+}
+.options {
+ 
+    align-items: center;
+   
+    margin-top: 2%;
+}s
+.options button {
+    background-color: saddlebrown;
+}
+.hemomominas{
+    width: 50%;
+}
+.header{
+    flex-direction: row;
+    margin-left:-11%;
+}
+.images {
+    background-color: rgb(255, 255, 255);
+    width:75%;
+    margin-top:3%;
+    margin-bottom:2%;
+}
+.esquerda {
+    padding:1.5%;
+}
+.title {
+    font-size:120%;
+    
+}
+.Augusto {
+    background-color:cornflowerblue;
+    padding-top:2%;
+    padding-bottom:2.5%;
+}
+.types {
+    padding-right:75%;
+    align-items: left;
+}
+
+.label {
+    width:25%;
+}
+
+.bastao {
+    width:5%;
+    margin-left:5%;
+}
+
+.Augusto2 {
+    background-color: cornflowerblue;
+    padding-top:2%;
+    padding-bottom:2.5%;
+}
+
+.cruz {
+    width:5%;
+    margin-left:5%;
+}
+
+.pacilabel {
+    margin-left:5%;
+}
+.medilabel {
+    margin-left:5%;
+}
+
+.medibox {
+    margin:2%;
+}
+
